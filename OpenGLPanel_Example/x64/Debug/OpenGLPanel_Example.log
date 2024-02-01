@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2203,5): warning MSB3270: There was a mismatch between the processor architecture of the project being built "AMD64" and the processor architecture of the reference "HKOGLPanel", "x86". This mismatch may cause runtime failures. Please consider changing the targeted processor architecture of your project through the Configuration Manager so as to align the processor architectures between your project and references, or take a dependency on references with a processor architecture that matches the targeted processor architecture of your project.
+  ViewManager.cpp
+D:\Project3_B10803040_B10830019_v1\P3繳交\CG_Project3\OpenGLPanel_Example\camera\ViewManager.h(5,10): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  LoadShaders.cpp
+D:\Project3_B10803040_B10830019_v1\P3繳交\CG_Project3\OpenGLPanel_Example\LoadShaders.h(2,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  MeshObject.cpp
+D:\Project3_B10803040_B10830019_v1\P3繳交\CG_Project3\OpenGLPanel_Example\MeshObject.h(5,10): fatal error C1083: Cannot open include file: 'OpenMesh/Core/IO/MeshIO.hh': No such file or directory
+  MyForm.cpp
+D:\Project3_B10803040_B10830019_v1\P3繳交\CG_Project3\OpenGLPanel_Example\Param.h(8,10): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  PickingTexture.cpp
+D:\Project3_B10803040_B10830019_v1\P3繳交\CG_Project3\OpenGLPanel_Example\PickingTexture.h(3,10): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  TextureImage.cpp
+D:\Project3_B10803040_B10830019_v1\P3繳交\CG_Project3\OpenGLPanel_Example\TextureImage.h(4,10): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  Texture.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Generating Code...

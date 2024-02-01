@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="LoadShaders.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureImage.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="PickingTexture.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshObject.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="camera\ViewManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h" />
+    <ClInclude Include="LoadShaders.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Param.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureImage.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PickingTexture.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshObject.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="camera\ViewManager.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Paintbrush.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleBuffer.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{2f19447d-ff52-4d8e-96fe-b0b495d2a212}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{10c619aa-bf40-43c8-8810-a0aa7a12521b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
